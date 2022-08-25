@@ -1,0 +1,31 @@
+
+body {
+    margin: 50;
+    background: lightgoldenrodyellow;
+    font-family: 'Poppins', sans-serif !important;
+}
+h1 {
+    position: relative;
+}
+h1 :before {
+    content: ;
+    position: absolute;
+}
+p, blockquote {
+    font-size:large;
+    line-height: 1.5em;
+}
+ul, blockquote {
+    font-size: large;
+    line-height: 2.5em;
+    color: royalblue;
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    text-align: center;
+}
+.container2 {
+    text-align: left;
+}
